@@ -1,6 +1,7 @@
 # Themes
 
 - base16_default_dark
+- challenger_deep
 - darcula
 - dracula
 - gruvbox_dark
