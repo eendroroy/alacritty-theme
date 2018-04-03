@@ -1,0 +1,28 @@
+# Colors (PaperColor - Light)
+colors:
+  # Default colors
+  primary:
+    background: '0xEEEEEE'
+    foreground: '0x4D4D4C'
+
+  # Normal colors
+  normal:
+    black:   '0xEDEDED'
+    red:     '0xD7005F'
+    green:   '0x718C00'
+    yellow:  '0xD75F00'
+    blue:    '0x4271AE'
+    magenta: '0x8959A8'
+    cyan:    '0x3E999F'
+    white:   '0x4D4D4C'
+
+  # Bright colors
+  bright:
+    black:   '0x969694'
+    red:     '0xD7005F'
+    green:   '0x718C00'
+    yellow:  '0xD75F00'
+    blue:    '0x4271AE'
+    magenta: '0x8959A8'
+    cyan:    '0x3E999F'
+    white:   '0xF5F5F5'
