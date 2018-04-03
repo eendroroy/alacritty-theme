@@ -1,4 +1,18 @@
-# Themes
+# Alacritty Theme
+
+[![GitHub tag](https://img.shields.io/github/tag/eendroroy/alacritty-theme.svg)](https://github.com/eendroroy/alacritty-theme/tags)
+
+[![Contributors](https://img.shields.io/github/contributors/eendroroy/alacritty-theme.svg)](https://github.com/eendroroy/alacritty-theme/graphs/contributors)
+[![GitHub last commit (branch)](https://img.shields.io/github/last-commit/eendroroy/alacritty-theme/master.svg)](https://github.com/eendroroy/alacritty-theme)
+[![license](https://img.shields.io/github/license/eendroroy/alacritty-theme.svg)](https://github.com/eendroroy/alacritty-theme/blob/master/LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/eendroroy/alacritty-theme.svg)](https://github.com/eendroroy/alacritty-theme/issues)
+[![GitHub closed issues](https://img.shields.io/github/issues-closed/eendroroy/alacritty-theme.svg)](https://github.com/eendroroy/alacritty-theme/issues?q=is%3Aissue+is%3Aclosed)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/eendroroy/alacritty-theme.svg)](https://github.com/eendroroy/alacritty-theme/pulls)
+[![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/eendroroy/alacritty-theme.svg)](https://github.com/eendroroy/alacritty-theme/pulls?q=is%3Apr+is%3Aclosed)
+
+**How to apply?** Copy the content of `yaml` file in the `colors` section into `~/.config/alacritty/alacritty.yml` file.
+
+## Color Schemes
 
 - base16_default_dark
 - challenger_deep
@@ -22,6 +36,15 @@
 - tomorrow_night
 - wombat
 - xterm
+
+## Contributing
+
+Bug reports and pull requests are welcome on GitHub at [alacritty-theme](https://github.com/eendroroy/alacritty-theme) repository.
+This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
+
+## Author
+
+* **indrajit** - *Owner* - [eendroroy](https://github.com/eendroroy)
 
 ## License
 
