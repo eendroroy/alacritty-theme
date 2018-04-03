@@ -25,6 +25,7 @@
 - material_theme
 - nord
 - one_dark
+- papercolor_light
 - pencil_dark
 - pencil_light
 - snazzy
