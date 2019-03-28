@@ -10,6 +10,12 @@
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/eendroroy/alacritty-theme.svg)](https://github.com/eendroroy/alacritty-theme/pulls)
 [![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/eendroroy/alacritty-theme.svg)](https://github.com/eendroroy/alacritty-theme/pulls?q=is%3Apr+is%3Aclosed)
 
+This repo lists color schemes for `alacritty`
+
+- collected from various sources
+- converted from other terminal emulator themes
+- created from vim or emacs color schemes.
+
 **How to apply?** Copy the content of `yaml` file in the `colors` section into `~/.config/alacritty/alacritty.yml` file.
 
 ## Color Schemes
@@ -18,6 +24,7 @@
 - challenger_deep
 - darcula
 - dracula
+- falcon
 - gruvbox_dark
 - gruvbox_light
 - hyper
@@ -33,8 +40,8 @@
 - solarized_light
 - taerminal
 - terminal_app
-- tomorrow_night_bright
 - tomorrow_night
+- tomorrow_night_bright
 - wombat
 - xterm
 
