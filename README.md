@@ -21,101 +21,101 @@ This repo lists color schemes for `alacritty`
 ## Color Schemes
 
 - **_base16_default_dark_**
-  
+
   ![base16_default_dark](images/base16_default_dark.png)
-  
+
 - **_challenger_deep_**
-  
+
   ![challenger_deep](images/challenger_deep.png)
-  
+
 - **_darcula_**
-  
+
   ![darcula](images/darcula.png)
-  
+
 - **_dracula_**
-  
+
   ![dracula](images/dracula.png)
-  
+
 - **_falcon_**
-  
+
   ![falcon](images/falcon.png)
-  
+
 - **_gruvbox_dark_**
-  
+
   ![gruvbox_dark](images/gruvbox_dark.png)
-  
+
 - **_gruvbox_light_**
-  
+
   ![gruvbox_light](images/gruvbox_light.png)
-  
+
 - **_hyper_**
-  
+
   ![hyper](images/hyper.png)
-  
+
 - **_iterm_**
-  
+
   ![iterm](images/iterm.png)
-  
+
 - **_material_theme_**
-  
+
   ![material_theme](images/material_theme.png)
-  
+
 - **_nord_**
-  
+
   ![nord](images/nord.png)
-  
+
 - **_one_dark_**
-  
+
   ![one_dark](images/one_dark.png)
-  
+
 - **_papercolor_light_**
-  
+
   ![papercolor_light](images/papercolor_light.png)
-  
+
 - **_pencil_dark_**
-  
+
   ![pencil_dark](images/pencil_dark.png)
-  
+
 - **_pencil_light_**
-  
+
   ![pencil_light](images/pencil_light.png)
-  
+
 - **_snazzy_**
-  
+
   ![snazzy](images/snazzy.png)
-  
+
 - **_solarized_dark_**
-  
+
   ![solarized_dark](images/solarized_dark.png)
-  
+
 - **_solarized_light_**
-  
+
   ![solarized_light](images/solarized_light.png)
-  
+
 - **_taerminal_**
-  
+
   ![taerminal](images/taerminal.png)
-  
+
 - **_terminal_app_**
-  
+
   ![terminal_app](images/terminal_app.png)
-  
+
 - **_tomorrow_night_**
-  
+
   ![tomorrow_night](images/tomorrow_night.png)
-  
+
 - **_tomorrow_night_bright_**
-  
+
   ![tomorrow_night_bright](images/tomorrow_night_bright.png)
-  
+
 - **_wombat_**
-  
+
   ![wombat](images/wombat.png)
-  
+
 - **_xterm_**
-  
+
   ![xterm](images/xterm.png)
-  
+
 
 ## Contributing
 
@@ -128,19 +128,4 @@ This project is intended to be a safe, welcoming space for collaboration, and co
 
 ## License
 
-```
-        DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
-                    Version 2, December 2004
-
- Copyright (C) 2017 indrajit
-
- Everyone is permitted to copy and distribute verbatim or modified
- copies of this license document, and changing it is allowed as long
- as the name is changed.
-
-            DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
-   TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
-
-0. You just DO WHAT THE FUCK YOU WANT TO.
-```
-
+[Apache License, Version 2.0](./LICENSE-APACHE)
