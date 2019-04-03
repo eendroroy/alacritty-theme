@@ -128,4 +128,4 @@ This project is intended to be a safe, welcoming space for collaboration, and co
 
 ## License
 
-[Apache License, Version 2.0](./LICENSE-APACHE)
+The project is available as open source under the terms of the [Apache License, Version 2.0](LICENSE)
