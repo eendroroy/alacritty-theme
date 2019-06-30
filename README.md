@@ -16,7 +16,11 @@ This repo lists color schemes for `alacritty`
 - converted from other terminal emulator themes
 - created from vim or emacs color schemes.
 
-**How to apply?** Copy the content of `yaml` file in the `colors` section into `~/.config/alacritty/alacritty.yml` file.
+## How to apply?
+
+Copy the content of `yaml` file in the `colors` section into `~/.config/alacritty/alacritty.yml` file.
+
+Or use [alacritty-colorscheme](https://github.com/toggle-corp/alacritty-colorscheme). Read details here: [Docs](https://github.com/toggle-corp/alacritty-colorscheme/blob/master/README.md)
 
 ## Color Schemes
 
