@@ -52,6 +52,10 @@ Or use [alacritty-colorscheme](https://github.com/toggle-corp/alacritty-colorsch
 
   ![gruvbox_light](images/gruvbox_light.png)
 
+- **_high_contrast_**
+
+  ![gruvbox_light](images/high_contrast.png)
+
 - **_hyper_**
 
   ![hyper](images/hyper.png)
@@ -59,6 +63,10 @@ Or use [alacritty-colorscheme](https://github.com/toggle-corp/alacritty-colorsch
 - **_iterm_**
 
   ![iterm](images/iterm.png)
+
+- **_low_contrast_**
+
+  ![iterm](images/low_contrast.png)
 
 - **_material_theme_**
 
@@ -103,6 +111,10 @@ Or use [alacritty-colorscheme](https://github.com/toggle-corp/alacritty-colorsch
 - **_terminal_app_**
 
   ![terminal_app](images/terminal_app.png)
+
+- **_thelovelace_**
+
+  ![terminal_app](images/thelovelace.png)
 
 - **_tomorrow_night_**
 
