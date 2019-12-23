@@ -44,6 +44,10 @@ Or use [alacritty-colorscheme](https://github.com/toggle-corp/alacritty-colorsch
 
   ![falcon](images/falcon.png)
 
+- **_gotham_**
+
+  ![falcon](images/gotham.png)
+
 - **_gruvbox_dark_**
 
   ![gruvbox_dark](images/gruvbox_dark.png)
