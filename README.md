@@ -36,6 +36,10 @@ Or use [alacritty-colorscheme](https://github.com/toggle-corp/alacritty-colorsch
 
   ![darcula](images/darcula.png)
 
+- **_doom_one_**
+
+  ![doom_one](images/doom_one.png)
+
 - **_dracula_**
 
   ![dracula](images/dracula.png)
