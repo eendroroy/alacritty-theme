@@ -24,121 +24,44 @@ Or use [alacritty-colorscheme](https://github.com/toggle-corp/alacritty-colorsch
 
 ## Color Schemes
 
-- **_base16_default_dark_**
-
-  ![base16_default_dark](images/base16_default_dark.png)
-
-- **_challenger_deep_**
-
-  ![challenger_deep](images/challenger_deep.png)
-
-- **_darcula_**
-
-  ![darcula](images/darcula.png)
-
-- **_doom_one_**
-
-  ![doom_one](images/doom_one.png)
-
-- **_dracula_**
-
-  ![dracula](images/dracula.png)
-
-- **_falcon_**
-
-  ![falcon](images/falcon.png)
-
-- **_gotham_**
-
-  ![falcon](images/gotham.png)
-
-- **_gruvbox_dark_**
-
-  ![gruvbox_dark](images/gruvbox_dark.png)
-
-- **_gruvbox_light_**
-
-  ![gruvbox_light](images/gruvbox_light.png)
-
-- **_high_contrast_**
-
-  ![gruvbox_light](images/high_contrast.png)
-
-- **_hyper_**
-
-  ![hyper](images/hyper.png)
-
-- **_iterm_**
-
-  ![iterm](images/iterm.png)
-
-- **_low_contrast_**
-
-  ![iterm](images/low_contrast.png)
-
-- **_material_theme_**
-
-  ![material_theme](images/material_theme.png)
-
-- **_nord_**
-
-  ![nord](images/nord.png)
-
-- **_one_dark_**
-
-  ![one_dark](images/one_dark.png)
-
-- **_papercolor_light_**
-
-  ![papercolor_light](images/papercolor_light.png)
-
-- **_pencil_dark_**
-
-  ![pencil_dark](images/pencil_dark.png)
-
-- **_pencil_light_**
-
-  ![pencil_light](images/pencil_light.png)
-
-- **_snazzy_**
-
-  ![snazzy](images/snazzy.png)
-
-- **_solarized_dark_**
-
-  ![solarized_dark](images/solarized_dark.png)
-
-- **_solarized_light_**
-
-  ![solarized_light](images/solarized_light.png)
-
-- **_taerminal_**
-
-  ![taerminal](images/taerminal.png)
-
-- **_terminal_app_**
-
-  ![terminal_app](images/terminal_app.png)
-
-- **_thelovelace_**
-
-  ![terminal_app](images/thelovelace.png)
-
-- **_tomorrow_night_**
-
-  ![tomorrow_night](images/tomorrow_night.png)
-
-- **_tomorrow_night_bright_**
-
-  ![tomorrow_night_bright](images/tomorrow_night_bright.png)
-
-- **_wombat_**
-
-  ![wombat](images/wombat.png)
-
-- **_xterm_**
-
-  ![xterm](images/xterm.png)
+|NAME|COLORS|
+|:---:|:---:|
+|**_afterglow_**<br>[source](https://github.com/YabataDesign/afterglow-theme)|![base16_default_dark](images/afterglow.png)|
+|**_argonaut_**<br>[source](https://github.com/pwaleczek/Argonaut-theme)|![base16_default_dark](images/argonaut.png)|
+|**_ayu_dark_**<br>[source](https://github.com/ayu-theme/ayu-colors)|![base16_default_dark](images/ayu_dark.png)|
+|**_base16_default_dark_**<br>[source](https://github.com/chriskempson/base16)|![base16_default_dark](images/base16_default_dark.png)|
+|**_blood_moon_**<br>[source](https://github.com/dguo/blood-moon)|![challenger_deep](images/blood_moon.png)|
+|**_breeze_**<br>[source](https://github.com/KDE/breeze)|![challenger_deep](images/breeze.png)|
+|**_campbell_**<br>[source](https://blogs.msdn.microsoft.com/commandline/2017/08/02/updating-the-windows-console-colors)|![challenger_deep](images/campbell.png)|
+|**_challenger_deep_**<br>[source](https://github.com/challenger-deep-theme/alacritty)|![challenger_deep](images/challenger_deep.png)|
+|**_darcula_**<br>[source](https://draculatheme.com)|![darcula](images/darcula.png)|
+|**_doom_one_**<br>[source](https://github.com/hlissner/emacs-doom-themes)|![doom_one](images/doom_one.png)|
+|**_dracula_**<br>[source](https://draculatheme.com)|![dracula](images/dracula.png)|
+|**_falcon_**|![falcon](images/falcon.png)|
+|**_gotham_**|![falcon](images/gotham.png)|
+|**_gruvbox_dark_**<br>[source](https://github.com/morhetz/gruvbox)|![gruvbox_dark](images/gruvbox_dark.png)|
+|**_gruvbox_light_**<br>[source](https://github.com/morhetz/gruvbox)|![gruvbox_light](images/gruvbox_light.png)|
+|**_high_contrast_**|![gruvbox_light](images/high_contrast.png)|
+|**_hyper_**<br>[source](https://hyper.is)|![hyper](images/hyper.png)|
+|**_iterm_**|![iterm](images/iterm.png)|
+|**_low_contrast_**|![iterm](images/low_contrast.png)|
+|**_material_theme_**<br>[source](https://github.com/equinusocio/material-theme)|![material_theme](images/material_theme.png)|
+|**_material_theme_mod_**|![material_theme](images/material_theme_mod.png)|
+|**_nord_**<br>[source](https://github.com/arcticicestudio/nord)|![nord](images/nord.png)|
+|**_one_dark_**|![one_dark](images/one_dark.png)|
+|**_papercolor_light_**|![papercolor_light](images/papercolor_light.png)|
+|**_pencil_dark_**<br>[source](https://github.com/mattly/iterm-colors-pencil)|![pencil_dark](images/pencil_dark.png)|
+|**_pencil_light_**<br>[source](https://github.com/mattly/iterm-colors-pencil)|![pencil_light](images/pencil_light.png)|
+|**_snazzy_**<br>[source](https://github.com/sindresorhus/hyper-snazzy)|![snazzy](images/snazzy.png)|
+|**_solarized_dark_**<br>[source](http://ethanschoonover.com/solarized)|![solarized_dark](images/solarized_dark.png)|
+|**_solarized_light_**<br>[source](http://ethanschoonover.com/solarized)|![solarized_light](images/solarized_light.png)|
+|**_taerminal_**<br>[source](https://github.com/cozywigwam/iterm-taerminal)|![taerminal](images/taerminal.png)|
+|**_terminal_app_**|![terminal_app](images/terminal_app.png)|
+|**_thelovelace_**|![terminal_app](images/thelovelace.png)|
+|**_tomorrow_night_**<br>[source](https://github.com/ChrisKempson/Tomorrow-Theme)|![tomorrow_night](images/tomorrow_night.png)|
+|**_tomorrow_night_bright_**<br>[source](https://github.com/ChrisKempson/Tomorrow-Theme)|![tomorrow_night_bright](images/tomorrow_night_bright.png)|
+|**_wombat_**<br>[source](https://github.com/djoyner/iTerm2-wombat)|![wombat](images/wombat.png)|
+|**_xterm_**|![xterm](images/xterm.png)|
 
 
 ## Contributing
