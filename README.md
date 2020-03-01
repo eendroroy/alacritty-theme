@@ -56,6 +56,7 @@ Or use [alacritty-colorscheme](https://github.com/toggle-corp/alacritty-colorsch
 |**_solarized_dark_**<br>[source](http://ethanschoonover.com/solarized)|![solarized_dark](images/solarized_dark.png)|
 |**_solarized_light_**<br>[source](http://ethanschoonover.com/solarized)|![solarized_light](images/solarized_light.png)|
 |**_taerminal_**<br>[source](https://github.com/cozywigwam/iterm-taerminal)|![taerminal](images/taerminal.png)|
+|**_tango_dark_**<br>[source](https://github.com/GNOME/gnome-terminal/blob/18939a24d21d6b7c6edd57a00a3a8a48f3aecec5/src/profile-editor.c#L213)|![tango_dark](images/tango_dark.png)|
 |**_terminal_app_**|![terminal_app](images/terminal_app.png)|
 |**_thelovelace_**|![terminal_app](images/thelovelace.png)|
 |**_tomorrow_night_**<br>[source](https://github.com/ChrisKempson/Tomorrow-Theme)|![tomorrow_night](images/tomorrow_night.png)|
