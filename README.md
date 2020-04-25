@@ -18,7 +18,7 @@ This repo lists color schemes for `alacritty`
 
 ## How to apply?
 
-Copy the content of `yaml` file in the `colors` section into `~/.config/alacritty/alacritty.yml` file.
+Copy the content of `yaml` file in the `themes` section into `~/.config/alacritty/alacritty.yml` file.
 
 Or use [alacritty-colorscheme](https://github.com/toggle-corp/alacritty-colorscheme). Read details here: [Docs](https://github.com/toggle-corp/alacritty-colorscheme/blob/master/README.md)
 
