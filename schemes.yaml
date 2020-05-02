@@ -902,3 +902,4 @@ nord: &nord
       cyan:    '0x00ffff'
       white:   '0xffffff'
 
+colors: *tomorrow_night
