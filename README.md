@@ -42,6 +42,7 @@ Or use [alacritty-colorscheme](https://github.com/toggle-corp/alacritty-colorsch
 |**_gruvbox_dark_**<br>[source](https://github.com/morhetz/gruvbox)|![gruvbox_dark](images/gruvbox_dark.png)|
 |**_gruvbox_light_**<br>[source](https://github.com/morhetz/gruvbox)|![gruvbox_light](images/gruvbox_light.png)|
 |**_high_contrast_**|![gruvbox_light](images/high_contrast.png)|
+|**_horizon-dark_**<br>[source](https://github.com/jolaleye/horizon-theme-vscode)|![horizon-dark](images/horizon-dark.png)|
 |**_hyper_**<br>[source](https://hyper.is)|![hyper](images/hyper.png)|
 |**_iterm_**|![iterm](images/iterm.png)|
 |**_low_contrast_**|![iterm](images/low_contrast.png)|

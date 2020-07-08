@@ -1,5 +1,4 @@
 schemes:
-
   afterglow: &afterglow
     primary:
       background: '0x2c2c2c'
@@ -407,6 +406,29 @@ schemes:
       cyan:    '0x00ffff'
       white:   '0xffffff'
 
+  horizon-dark: &horizon-dark
+    primary:
+      background: '0x1c1e26'
+      foreground: '0xe0e0e0'
+    normal:
+      black: '0x16161c'
+      red: '0xe95678'
+      green: '0x29d398'
+      yellow: '0xfab795'
+      blue: '0x26bbd9'
+      magenta: '0xee64ac'
+      cyan: '0x59e1e3'
+      white: '0xd5d8da'
+    bright:
+      black: '0x5b5858'
+      red: '0xec6a88'
+      green: '0x3fdaa4'
+      yellow: '0xfbc3a7'
+      blue: '0x3fc4de'
+      magenta: '0xf075b5'
+      cyan: '0x6be4e6'
+      white: '0xd5d8da'
+
   hyper: &hyper
     primary:
       background: '0x000000'
@@ -482,28 +504,28 @@ schemes:
       cyan:    '0x00bbbb'
       white:   '0xbbbbbb'
 
-material_theme: &material_theme
-  primary:
-    background: '0x1e282d'
-    foreground: '0xc4c7d1'
-  normal:
-    black:   '0x666666'
-    red:     '0xeb606b'
-    green:   '0xc3e88d'
-    yellow:  '0xf7eb95'
-    blue:    '0x80cbc4'
-    magenta: '0xff2f90'
-    cyan:    '0xaeddff'
-    white:   '0xffffff'
-  bright:
-    black:   '0xff262b'
-    red:     '0xeb606b'
-    green:   '0xc3e88d'
-    yellow:  '0xf7eb95'
-    blue:    '0x7dc6bf'
-    magenta: '0x6c71c4'
-    cyan:    '0x35434d'
-    white:   '0xffffff'
+  material_theme: &material_theme
+    primary:
+      background: '0x1e282d'
+      foreground: '0xc4c7d1'
+    normal:
+      black:   '0x666666'
+      red:     '0xeb606b'
+      green:   '0xc3e88d'
+      yellow:  '0xf7eb95'
+      blue:    '0x80cbc4'
+      magenta: '0xff2f90'
+      cyan:    '0xaeddff'
+      white:   '0xffffff'
+    bright:
+      black:   '0xff262b'
+      red:     '0xeb606b'
+      green:   '0xc3e88d'
+      yellow:  '0xf7eb95'
+      blue:    '0x7dc6bf'
+      magenta: '0x6c71c4'
+      cyan:    '0x35434d'
+      white:   '0xffffff'
 
   material_theme_mod: &material_theme_mod
     primary:
@@ -528,28 +550,28 @@ material_theme: &material_theme
       cyan:    '0x35434d'
       white:   '0xffffff'
 
-nord: &nord
-  primary:
-    background: '0x2E3440'
-    foreground: '0xD8DEE9'
-  normal:
-    black:   '0x3B4252'
-    red:     '0xBF616A'
-    green:   '0xA3BE8C'
-    yellow:  '0xEBCB8B'
-    blue:    '0x81A1C1'
-    magenta: '0xB48EAD'
-    cyan:    '0x88C0D0'
-    white:   '0xE5E9F0'
-  bright:
-    black:   '0x4C566A'
-    red:     '0xBF616A'
-    green:   '0xA3BE8C'
-    yellow:  '0xEBCB8B'
-    blue:    '0x81A1C1'
-    magenta: '0xB48EAD'
-    cyan:    '0x8FBCBB'
-    white:   '0xECEFF4'
+  nord: &nord
+    primary:
+      background: '0x2E3440'
+      foreground: '0xD8DEE9'
+    normal:
+      black:   '0x3B4252'
+      red:     '0xBF616A'
+      green:   '0xA3BE8C'
+      yellow:  '0xEBCB8B'
+      blue:    '0x81A1C1'
+      magenta: '0xB48EAD'
+      cyan:    '0x88C0D0'
+      white:   '0xE5E9F0'
+    bright:
+      black:   '0x4C566A'
+      red:     '0xBF616A'
+      green:   '0xA3BE8C'
+      yellow:  '0xEBCB8B'
+      blue:    '0x81A1C1'
+      magenta: '0xB48EAD'
+      cyan:    '0x8FBCBB'
+      white:   '0xECEFF4'
 
   one_dark: &one_dark
     primary:
