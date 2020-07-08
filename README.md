@@ -52,7 +52,7 @@ Or use [alacritty-colorscheme](https://github.com/toggle-corp/alacritty-colorsch
 |**_material_theme_mod_**|![material_theme](images/material_theme_mod.png)|
 |**_nord_**<br>[source](https://github.com/arcticicestudio/nord)|![nord](images/nord.png)|
 |**_one_dark_**|![one_dark](images/one_dark.png)|
-|**_papercolor_light_**|![papercolor_light](images/papercolor_light.png)|
+|**_papercolor_light_**<br>[source](https://github.com/NLKNguyen/papercolor-theme/blob/master/colors/PaperColor.vim#L960)|![papercolor_light](images/papercolor_light.png)|
 |**_pencil_dark_**<br>[source](https://github.com/mattly/iterm-colors-pencil)|![pencil_dark](images/pencil_dark.png)|
 |**_pencil_light_**<br>[source](https://github.com/mattly/iterm-colors-pencil)|![pencil_light](images/pencil_light.png)|
 |**_snazzy_**<br>[source](https://github.com/sindresorhus/hyper-snazzy)|![snazzy](images/snazzy.png)|
