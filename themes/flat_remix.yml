@@ -1,0 +1,25 @@
+ flat_remix: &flat_remix
+        primary:
+          background: '0x272a34'
+          foreground: '0xFFFFFF'
+
+        normal:
+            black:   '0x1F2229'           # Black
+            red:     '0xEC0101'           # Light Red
+            green:   '0x47D4B9'           # Light Green
+            yellow:  '0xFF8A18'           # Light Yellow
+            blue:    '0x277FFF'           # Light Blue
+            magenta: '0xD71655'           # Light Magenta
+            cyan:    '0x05A1F7'           # Light Cyan
+            white:   '0xFFFFFF'           # White
+           
+
+        bright:
+            black:     	'0x1F2229'           # Black
+            red:       	'0xD41919'           # Red
+            green:     	'0x5EBDAB'           # Green
+            yellow:    	'0xFEA44C'           # Yellow
+            blue:      	'0x367bf0'           # Blue
+            magenta:   	'0xBF2E5D'           # Magenta
+            cyan:      	'0x49AEE6'           # Cyan
+            white:      '0xFFFFFF' 
