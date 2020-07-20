@@ -10,7 +10,7 @@
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/eendroroy/alacritty-theme.svg)](https://github.com/eendroroy/alacritty-theme/pulls)
 [![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/eendroroy/alacritty-theme.svg)](https://github.com/eendroroy/alacritty-theme/pulls?q=is%3Apr+is%3Aclosed)
 
-This repo lists color schemes for `alacritty`
+This repo lists (copied or slightly modified) color schemes for `alacritty`
 
 - collected from various sources
 - converted from other terminal emulator themes
