@@ -34,6 +34,7 @@ Or use [alacritty-colorscheme](https://github.com/toggle-corp/alacritty-colorsch
 |**_breeze_**<br>[source](https://github.com/KDE/breeze)|![challenger_deep](images/breeze.png)|
 |**_campbell_**<br>[source](https://blogs.msdn.microsoft.com/commandline/2017/08/02/updating-the-windows-console-colors)|![challenger_deep](images/campbell.png)|
 |**_challenger_deep_**<br>[source](https://github.com/challenger-deep-theme/alacritty)|![challenger_deep](images/challenger_deep.png)|
+|**_Cobalt2_**<br>[source](https://github.com/wesbos/cobalt2/tree/master/Cobalt2)|![Cobalt2](images/Cobalt2.png)|
 |**_darcula_**<br>[source](https://draculatheme.com)|![darcula](images/darcula.png)|
 |**_doom_one_**<br>[source](https://github.com/hlissner/emacs-doom-themes)|![doom_one](images/doom_one.png)|
 |**_dracula_**<br>[source](https://draculatheme.com)|![dracula](images/dracula.png)|
