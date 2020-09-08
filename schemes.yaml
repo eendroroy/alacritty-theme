@@ -247,6 +247,32 @@ schemes:
       cyan:    '0x6ae3f9'
       white:   '0xffffff'
 
+cyber_punk_neon: &cyber_punk_neon
+  primary:
+    background: "0x000b1e"
+    foreground: "0x0abdc6"
+  cursor:
+    text:   "0x000b1e"
+    cursor: "0x0abdc6"
+  normal:
+    black:   "0x123e7c"
+    red:     "0xff0000"
+    green:   "0xd300c4"
+    yellow:  "0xf57800"
+    blue:    "0x123e7c"
+    magenta: "0x711c91"
+    cyan:    "0x0abdc6"
+    white:   "0xd7d7d5"
+  bright:
+    black:   "0x1c61c2"
+    red:     "0xff0000"
+    green:   "0xd300c4"
+    yellow:  "0xf57800"
+    blue:    "0x00ff00"
+    magenta: "0x711c91"
+    cyan:    "0x0abdc6"
+    white:   "0xd7d7d5"
+
   darcula: &darcula
     primary:
       background: '0x282a36'
@@ -437,30 +463,30 @@ schemes:
       background: '0x1c1e26'
       foreground: '0xe0e0e0'
     normal:
-      black: '0x16161c'
-      red: '0xe95678'
-      green: '0x29d398'
-      yellow: '0xfab795'
-      blue: '0x26bbd9'
+      black:   '0x16161c'
+      red:     '0xe95678'
+      green:   '0x29d398'
+      yellow:  '0xfab795'
+      blue:    '0x26bbd9'
       magenta: '0xee64ac'
-      cyan: '0x59e1e3'
-      white: '0xd5d8da'
+      cyan:    '0x59e1e3'
+      white:   '0xd5d8da'
     bright:
-      black: '0x5b5858'
-      red: '0xec6a88'
-      green: '0x3fdaa4'
-      yellow: '0xfbc3a7'
-      blue: '0x3fc4de'
+      black:   '0x5b5858'
+      red:     '0xec6a88'
+      green:   '0x3fdaa4'
+      yellow:  '0xfbc3a7'
+      blue:    '0x3fc4de'
       magenta: '0xf075b5'
-      cyan: '0x6be4e6'
-      white: '0xd5d8da'
+      cyan:    '0x6be4e6'
+      white:   '0xd5d8da'
 
   hyper: &hyper
     primary:
       background: '0x000000'
       foreground: '0xffffff'
     cursor:
-      text: '0xF81CE5'
+      text:   '0xF81CE5'
       cursor: '0xffffff'
     normal:
       black:   '0x000000'
@@ -509,7 +535,7 @@ schemes:
       background: '0x333333'
       foreground: '0xdddddd'
     cursor:
-      text: '0xaaaaaa'
+      text:   '0xaaaaaa'
       cursor: '0xffffff'
     normal:
       black:   '0x000000'
