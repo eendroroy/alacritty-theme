@@ -53,6 +53,7 @@ Or use [alacritty-colorscheme](https://github.com/toggle-corp/alacritty-colorsch
 |**_material_theme_**<br>[source](https://github.com/equinusocio/material-theme)|![material_theme](images/material_theme.png)|
 |**_material_theme_mod_**|![material_theme](images/material_theme_mod.png)|
 |**_nord_**<br>[source](https://github.com/arcticicestudio/nord)|![nord](images/nord.png)|
+|**_oceanic_next_**|![oceanic_next](images/oceanic_next.png)|
 |**_one_dark_**|![one_dark](images/one_dark.png)|
 |**_papercolor_light_**<br>[source](https://github.com/NLKNguyen/papercolor-theme/blob/master/colors/PaperColor.vim#L36)|![papercolor_light](images/papercolor_light.png)|
 |**_pencil_dark_**<br>[source](https://github.com/mattly/iterm-colors-pencil)|![pencil_dark](images/pencil_dark.png)|
