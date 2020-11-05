@@ -65,6 +65,8 @@ Or use [alacritty-colorscheme](https://github.com/toggle-corp/alacritty-colorsch
 |**_tender_**<br>[source](https://github.com/huyvohcmc/tender-alacritty)|![tender](images/tender.png)|
 |**_terminal_app_**|![terminal_app](images/terminal_app.png)|
 |**_thelovelace_**|![terminal_app](images/thelovelace.png)|
+|**_tokyo-night_**<br>[source](https://github.com/zatchheems/tokyo-night-alacritty-theme)|![tokyo-night](images/tokyo-night.png)|
+|**_tokyo-night-storm_**<br>[source](https://github.com/zatchheems/tokyo-night-alacritty-theme)|![tokyo-night-storm](images/tokyo-night-storm.png)|
 |**_tomorrow_night_**<br>[source](https://github.com/ChrisKempson/Tomorrow-Theme)|![tomorrow_night](images/tomorrow_night.png)|
 |**_tomorrow_night_bright_**<br>[source](https://github.com/ChrisKempson/Tomorrow-Theme)|![tomorrow_night_bright](images/tomorrow_night_bright.png)|
 |**_wombat_**<br>[source](https://github.com/djoyner/iTerm2-wombat)|![wombat](images/wombat.png)|
