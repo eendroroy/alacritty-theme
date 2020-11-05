@@ -359,6 +359,29 @@ cyber_punk_neon: &cyber_punk_neon
       cyan:    '0x8bccbf'
       white:   '0xf8f8ff'
 
+  flat_remix: &flat_remix
+    primary:
+      background: '0x272a34'
+      foreground: '0xFFFFFF'
+    normal:
+      black:   '0x1F2229'
+      red:     '0xEC0101'
+      green:   '0x47D4B9'
+      yellow:  '0xFF8A18'
+      blue:    '0x277FFF'
+      magenta: '0xD71655'
+      cyan:    '0x05A1F7'
+      white:   '0xFFFFFF'
+    bright:
+      black:   '0x1F2229'
+      red:     '0xD41919'
+      green:   '0x5EBDAB'
+      yellow:  '0xFEA44C'
+      blue:    '0x367bf0'
+      magenta: '0xBF2E5D'
+      cyan:    '0x49AEE6'
+      white:   '0xFFFFFF'
+
   gotham: &gotham
     primary:
       background: '0x0a0f14'
@@ -431,6 +454,29 @@ cyber_punk_neon: &cyber_punk_neon
       magenta: '0x8f3f71'
       cyan:    '0x427b58'
       white:   '0x3c3836'
+
+  gruvbox_material: &gruvbox_material
+    primary:
+      background: '0x282828'
+      foreground: '0xdfbf8e'
+    normal:
+      black:   '0x665c54'
+      red:     '0xea6962'
+      green:   '0xa9b665'
+      yellow:  '0xe78a4e'
+      blue:    '0x7daea3'
+      magenta: '0xd3869b'
+      cyan:    '0x89b482'
+      white:   '0xdfbf8e'
+    bright:
+      black:   '0x928374'
+      red:     '0xea6962'
+      green:   '0xa9b665'
+      yellow:  '0xe3a84e'
+      blue:    '0x7daea3'
+      magenta: '0xd3869b'
+      cyan:    '0x89b482'
+      white:   '0xdfbf8e'
 
   high_contrast: &high_contrast
     primary:
@@ -624,6 +670,29 @@ cyber_punk_neon: &cyber_punk_neon
       magenta: '0xB48EAD'
       cyan:    '0x8FBCBB'
       white:   '0xECEFF4'
+
+  oceanic_next: &oceanic_next
+    primary:
+      background: '0x1b2b34'
+      foreground: '0xd8dee9'
+    normal:
+      black:   '0x29414f'
+      red:     '0xec5f67'
+      green:   '0x99c794'
+      yellow:  '0xfac863'
+      blue:    '0x6699cc'
+      magenta: '0xc594c5'
+      cyan:    '0x5fb3b3'
+      white:   '0x65737e'
+    bright:
+      black:   '0x405860'
+      red:     '0xec5f67'
+      green:   '0x99c794'
+      yellow:  '0xfac863'
+      blue:    '0x6699cc'
+      magenta: '0xc594c5'
+      cyan:    '0x5fb3b3'
+      white:   '0xadb5c0'
 
   one_dark: &one_dark
     primary:
@@ -907,6 +976,52 @@ cyber_punk_neon: &cyber_punk_neon
       cyan:    '0x3FDCEE'
       white:   '0xBEBEC1'
 
+  tokyo-night: &tokyo-night
+    primary:
+      background: '0x1a1b26'
+      foreground: '0xa9b1d6'
+    normal:
+      black: '0x32344a'
+      red: '0xf7768e'
+      green: '0x9ece6a'
+      yellow: '0xe0af68'
+      blue: '0x7aa2f7'
+      magenta: '0xad8ee6'
+      cyan: '0x449dab'
+      white: '0x787c99'
+    bright:
+      black: '0x444b6a'
+      red: '0xff7a93'
+      green: '0xb9f27c'
+      yellow: '0xff9e64'
+      blue: '0x7da6ff'
+      magenta: '0xbb9af7'
+      cyan: '0x0db9d7'
+      white: '0xacb0d0'
+
+  tokyo-night-storm: &tokyo-night-storm
+    primary:
+      background: '0x24283b'
+      foreground: '0xa9b1d6'
+    normal:
+      black: '0x32344a'
+      red: '0xf7768e'
+      green: '0x9ece6a'
+      yellow: '0xe0af68'
+      blue: '0x7aa2f7'
+      magenta: '0xad8ee6'
+      cyan: '0x449dab'
+      white: '0x9699a8'
+    bright:
+      black: '0x444b6a'
+      red: '0xff7a93'
+      green: '0xb9f27c'
+      yellow: '0xff9e64'
+      blue: '0x7da6ff'
+      magenta: '0xbb9af7'
+      cyan: '0x0db9d7'
+      white: '0xacb0d0'
+
   tomorrow_night: &tomorrow_night
     primary:
       background: '0x1d1f21'
@@ -1001,100 +1116,5 @@ cyber_punk_neon: &cyber_punk_neon
       magenta: '0xff00ff'
       cyan:    '0x00ffff'
       white:   '0xffffff'
-
-  flat_remix: &flat_remix
-    primary:
-      background: '0x272a34'
-      foreground: '0xFFFFFF'
-
-    normal:
-      black:   '0x1F2229'
-      red:     '0xEC0101'
-      green:   '0x47D4B9'
-      yellow:  '0xFF8A18'
-      blue:    '0x277FFF'
-      magenta: '0xD71655'
-      cyan:    '0x05A1F7'
-      white:   '0xFFFFFF'
-
-
-    bright:
-      black:   '0x1F2229'
-      red:     '0xD41919'
-      green:   '0x5EBDAB'
-      yellow:  '0xFEA44C'
-      blue:    '0x367bf0'
-      magenta: '0xBF2E5D'
-      cyan:    '0x49AEE6'
-      white:   '0xFFFFFF'
-
-  gruvbox_material: &gruvbox_material
-    primary:
-      background: '0x282828'
-      foreground: '0xdfbf8e'
-    normal:
-      black:   '0x665c54'
-      red:     '0xea6962'
-      green:   '0xa9b665'
-      yellow:  '0xe78a4e'
-      blue:    '0x7daea3'
-      magenta: '0xd3869b'
-      cyan:    '0x89b482'
-      white:   '0xdfbf8e'
-    bright:
-      black:   '0x928374'
-      red:     '0xea6962'
-      green:   '0xa9b665'
-      yellow:  '0xe3a84e'
-      blue:    '0x7daea3'
-      magenta: '0xd3869b'
-      cyan:    '0x89b482'
-      white:   '0xdfbf8e'
-
-  tokyo-night: &tokyo-night
-    primary:
-      background: '0x1a1b26'
-      foreground: '0xa9b1d6'
-    normal:
-      black: '0x32344a'
-      red: '0xf7768e'
-      green: '0x9ece6a'
-      yellow: '0xe0af68'
-      blue: '0x7aa2f7'
-      magenta: '0xad8ee6'
-      cyan: '0x449dab'
-      white: '0x787c99'
-    bright:
-      black: '0x444b6a'
-      red: '0xff7a93'
-      green: '0xb9f27c'
-      yellow: '0xff9e64'
-      blue: '0x7da6ff'
-      magenta: '0xbb9af7'
-      cyan: '0x0db9d7'
-      white: '0xacb0d0'
-
-  tokyo-night-storm: &tokyo-night-storm
-    primary:
-      background: '0x24283b'
-      foreground: '0xa9b1d6'
-    normal:
-      black:   '0x32344a'
-      red:     '0xf7768e'
-      green:   '0x9ece6a'
-      yellow:  '0xe0af68'
-      blue:    '0x7aa2f7'
-      magenta: '0xad8ee6'
-      cyan:    '0x449dab'
-      white:   '0x9699a8'
-    bright:
-      black:   '0x444b6a'
-      red:     '0xff7a93'
-      green:   '0xb9f27c'
-      yellow:  '0xff9e64'
-      blue:    '0x7da6ff'
-      magenta: '0xbb9af7'
-      cyan:    '0x0db9d7'
-      white:   '0xacb0d0'
 
 colors: *challenger_deep
