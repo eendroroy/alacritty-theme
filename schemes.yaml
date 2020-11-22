@@ -247,31 +247,31 @@ schemes:
       cyan:    '0x6ae3f9'
       white:   '0xffffff'
 
-cyber_punk_neon: &cyber_punk_neon
-  primary:
-    background: "0x000b1e"
-    foreground: "0x0abdc6"
-  cursor:
-    text:   "0x000b1e"
-    cursor: "0x0abdc6"
-  normal:
-    black:   "0x123e7c"
-    red:     "0xff0000"
-    green:   "0xd300c4"
-    yellow:  "0xf57800"
-    blue:    "0x123e7c"
-    magenta: "0x711c91"
-    cyan:    "0x0abdc6"
-    white:   "0xd7d7d5"
-  bright:
-    black:   "0x1c61c2"
-    red:     "0xff0000"
-    green:   "0xd300c4"
-    yellow:  "0xf57800"
-    blue:    "0x00ff00"
-    magenta: "0x711c91"
-    cyan:    "0x0abdc6"
-    white:   "0xd7d7d5"
+  cyber_punk_neon: &cyber_punk_neon
+    primary:
+      background: "0x000b1e"
+      foreground: "0x0abdc6"
+    cursor:
+      text:   "0x000b1e"
+      cursor: "0x0abdc6"
+    normal:
+      black:   "0x123e7c"
+      red:     "0xff0000"
+      green:   "0xd300c4"
+      yellow:  "0xf57800"
+      blue:    "0x123e7c"
+      magenta: "0x711c91"
+      cyan:    "0x0abdc6"
+      white:   "0xd7d7d5"
+    bright:
+      black:   "0x1c61c2"
+      red:     "0xff0000"
+      green:   "0xd300c4"
+      yellow:  "0xf57800"
+      blue:    "0x00ff00"
+      magenta: "0x711c91"
+      cyan:    "0x0abdc6"
+      white:   "0xd7d7d5"
 
   darcula: &darcula
     primary:
@@ -295,6 +295,29 @@ cyber_punk_neon: &cyber_punk_neon
       magenta: '0xff92d0'
       cyan:    '0x9aedfe'
       white:   '0xe6e6e6'
+
+  dark_pastels: &dark_pastels
+    primary:
+      background: '0x2C2C2C'
+      foreground: '0xDCDCCC'
+    normal:
+      black:   '0x3F3F3F'
+      red:     '0x705050'
+      green:   '0x60B48A'
+      yellow:  '0xDFAF8F'
+      blue:    '0x9AB8D7'
+      magenta: '0xDC8CC3'
+      cyan:    '0x8CD0D3'
+      white:   '0xDCDCCC'
+    bright:
+      black:   '0x709080'
+      red:     '0xDCA3A3'
+      green:   '0x72D5A3'
+      yellow:  '0xF0DFAF'
+      blue:    '0x94BFF3'
+      magenta: '0xEC93D3'
+      cyan:    '0x93E0E3'
+      white:   '0xFFFFFF'
 
   doom_one: &doom_one
     primary:
