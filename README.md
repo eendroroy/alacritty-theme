@@ -37,6 +37,7 @@ Or use [alacritty-colorscheme](https://github.com/toggle-corp/alacritty-colorsch
 |**_Cobalt2_**<br>[source](https://github.com/wesbos/cobalt2/tree/master/Cobalt2)|![Cobalt2](images/Cobalt2.png)|
 |**_cyber_punk_neon_**<br>[source](https://github.com/Roboron3042/Cyberpunk-Neon)|![cyber_punk_neon](images/cyber_punk_neon.png)|
 |**_darcula_**<br>[source](https://draculatheme.com)|![darcula](images/darcula.png)|
+|**_dark_pastels_**<br>[source](https://invent.kde.org/utilities/konsole/-/blob/master/data/color-schemes/DarkPastels.colorscheme)|![darcula](images/dark_pastels.png)|
 |**_doom_one_**<br>[source](https://github.com/hlissner/emacs-doom-themes)|![doom_one](images/doom_one.png)|
 |**_dracula_**<br>[source](https://draculatheme.com)|![dracula](images/dracula.png)|
 |**_falcon_**|![falcon](images/falcon.png)|
