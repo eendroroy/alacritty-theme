@@ -718,10 +718,9 @@ schemes:
       white:   '0xadb5c0'
 
   omni: &omni
-    colors:
-      primary:
-        background: '0x191622'
-        foreground: '0xe1e1e6'
+    primary:
+      background: '0x191622'
+      foreground: '0xe1e1e6'
     cursor:
       text: '0x191622'
       cursor: '0xf8f8f2'
