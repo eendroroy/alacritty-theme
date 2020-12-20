@@ -1,10 +1,9 @@
 # Alacritty Theme
 
-[![GitHub tag](https://img.shields.io/github/tag/eendroroy/alacritty-theme.svg)](https://github.com/eendroroy/alacritty-theme/tags)
-
-[![Contributors](https://img.shields.io/github/contributors/eendroroy/alacritty-theme.svg)](https://github.com/eendroroy/alacritty-theme/graphs/contributors)
-[![GitHub last commit (branch)](https://img.shields.io/github/last-commit/eendroroy/alacritty-theme/master.svg)](https://github.com/eendroroy/alacritty-theme)
 [![license](https://img.shields.io/github/license/eendroroy/alacritty-theme.svg)](https://github.com/eendroroy/alacritty-theme/blob/master/LICENSE)
+[![GitHub tag](https://img.shields.io/github/tag/eendroroy/alacritty-theme.svg)](https://github.com/eendroroy/alacritty-theme/tags)
+[![GitHub last commit (branch)](https://img.shields.io/github/last-commit/eendroroy/alacritty-theme/master.svg)](https://github.com/eendroroy/alacritty-theme)
+
 [![GitHub issues](https://img.shields.io/github/issues/eendroroy/alacritty-theme.svg)](https://github.com/eendroroy/alacritty-theme/issues)
 [![GitHub closed issues](https://img.shields.io/github/issues-closed/eendroroy/alacritty-theme.svg)](https://github.com/eendroroy/alacritty-theme/issues?q=is%3Aissue+is%3Aclosed)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/eendroroy/alacritty-theme.svg)](https://github.com/eendroroy/alacritty-theme/pulls)
