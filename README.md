@@ -60,7 +60,7 @@ Or use [alacritty-colorscheme](https://github.com/toggle-corp/alacritty-colorsch
 |**_papercolor_light_**<br>[source](https://github.com/NLKNguyen/papercolor-theme/blob/master/colors/PaperColor.vim#L36)|![papercolor_light](images/papercolor_light.png)|
 |**_pencil_dark_**<br>[source](https://github.com/mattly/iterm-colors-pencil)|![pencil_dark](images/pencil_dark.png)|
 |**_pencil_light_**<br>[source](https://github.com/mattly/iterm-colors-pencil)|![pencil_light](images/pencil_light.png)|
-|**_remedy_dark_**<br>[source](https://github.com/robertrossmann/vscode-remedy)||
+|**_remedy_dark_**<br>[source](https://github.com/robertrossmann/vscode-remedy)|![remedy_dark](images/remedy_dark.png)|
 |**_snazzy_**<br>[source](https://github.com/sindresorhus/hyper-snazzy)|![snazzy](images/snazzy.png)|
 |**_solarized_dark_**<br>[source](http://ethanschoonover.com/solarized)|![solarized_dark](images/solarized_dark.png)|
 |**_solarized_light_**<br>[source](http://ethanschoonover.com/solarized)|![solarized_light](images/solarized_light.png)|
