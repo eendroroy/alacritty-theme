@@ -49,6 +49,7 @@ Or use [alacritty-colorscheme](https://github.com/toggle-corp/alacritty-colorsch
 |**_horizon-dark_**<br>[source](https://github.com/jolaleye/horizon-theme-vscode)|![horizon-dark](images/horizon-dark.png)|
 |**_hyper_**<br>[source](https://hyper.is)|![hyper](images/hyper.png)|
 |**_iterm_**|![iterm](images/iterm.png)|
+|**_konsole_linux_**|TBD|
 |**_low_contrast_**|![iterm](images/low_contrast.png)|
 |**_material_theme_**<br>[source](https://github.com/equinusocio/material-theme)|![material_theme](images/material_theme.png)|
 |**_material_theme_mod_**|![material_theme](images/material_theme_mod.png)|
