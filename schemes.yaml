@@ -964,7 +964,7 @@ schemes:
 
   seashells: &seashells
     primary:
-      background: '0x61923'
+      background: '0x061923'
       foreground: '0xe5c49e'
     cursor:
       text: '0x061822'
