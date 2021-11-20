@@ -39,7 +39,7 @@ Or use [alacritty-colorscheme](https://github.com/toggle-corp/alacritty-colorsch
 |**_dark_pastels_**<br>[source](https://invent.kde.org/utilities/konsole/-/blob/master/data/color-schemes/DarkPastels.colorscheme)|![darcula](images/dark_pastels.png)|
 |**_doom_one_**<br>[source](https://github.com/hlissner/emacs-doom-themes)|![doom_one](images/doom_one.png)|
 |**_dracula_**<br>[source](https://draculatheme.com)|![dracula](images/dracula.png)|
-|**_falcon_**|![falcon](images/falcon.png)|
+|**_falcon_**<br>[source](https://github.com/fenetikm/falcon)|![falcon](images/falcon.png)|
 |**_flat_remix_**<br>[source](https://github.com/Mayccoll/Gogh/blob/master/themes/flat-remix.sh)|![falcon](images/flat_remix.png)|
 |**_gotham_**|![falcon](images/gotham.png)|
 |**_gruvbox_dark_**<br>[source](https://github.com/morhetz/gruvbox)|![gruvbox_dark](images/gruvbox_dark.png)|
