@@ -59,9 +59,9 @@ Or use [alacritty-colorscheme](https://github.com/toggle-corp/alacritty-colorsch
 |**_oceanic_next_**<br>[source](https://github.com/voronianski/oceanic-next-color-scheme)|![oceanic_next](images/oceanic_next.png)|
 |**_omni_**<br>[source](https://github.com/Mdsp9070/alacritty-omni)|![omni](images/omni.png)|
 |**_one_dark_**|![one_dark](images/one_dark.png)|
-|**_palenight_**<br>[source](https://github.com/JonathanSpeek/palenight-iterm2)|![palenight](images/palenight.png)|
+|**_palenight_**<br>[source](https://github.com/JonathanSpeek/palenight-iterm2)|![palenight](images/palenight.png)|s
+|**_papercolor_dark_**<br>[source](https://github.com/NLKNguyen/papercolor-theme/blob/master/colors/PaperColor.vim#L126)|![papercolor_dark](images/papercolor_dark.png)|
 |**_papercolor_light_**<br>[source](https://github.com/NLKNguyen/papercolor-theme/blob/master/colors/PaperColor.vim#L36)|![papercolor_light](images/papercolor_light.png)|
-|**_papercolor_dark_**<br>[source](https://github.com/NLKNguyen/papercolor-theme/blob/master/colors/PaperColor.vim#L126)|Picture missing|
 |**_pencil_dark_**<br>[source](https://github.com/mattly/iterm-colors-pencil)|![pencil_dark](images/pencil_dark.png)|
 |**_pencil_light_**<br>[source](https://github.com/mattly/iterm-colors-pencil)|![pencil_light](images/pencil_light.png)|
 |**_remedy_dark_**<br>[source](https://github.com/robertrossmann/vscode-remedy)|![remedy_dark](images/remedy_dark.png)|
