@@ -27,6 +27,7 @@ Or use [alacritty-colorscheme](https://github.com/toggle-corp/alacritty-colorsch
 |:---:|:---:|
 |**_afterglow_**<br>[source](https://github.com/YabataDesign/afterglow-theme)|![base16_default_dark](images/afterglow.png)|
 |**_argonaut_**<br>[source](https://github.com/pwaleczek/Argonaut-theme)|![base16_default_dark](images/argonaut.png)|
+|**_atom_one_light_**<br>[source](https://github.com/dexpota/kitty-themes/blob/master/themes/AtomOneLight.conf)|![base16_default_dark](images/atom_one_light.png)|
 |**_ayu_dark_**<br>[source](https://github.com/ayu-theme/ayu-colors)|![base16_default_dark](images/ayu_dark.png)|
 |**_base16_default_dark_**<br>[source](https://github.com/chriskempson/base16)|![base16_default_dark](images/base16_default_dark.png)|
 |**_blood_moon_**<br>[source](https://github.com/dguo/blood-moon)|![challenger_deep](images/blood_moon.png)|
