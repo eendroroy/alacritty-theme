@@ -54,6 +54,7 @@ Or use [alacritty-colorscheme](https://github.com/toggle-corp/alacritty-colorsch
 |**_low_contrast_**|![iterm](images/low_contrast.png)|
 |**_material_theme_**<br>[source](https://github.com/equinusocio/material-theme)|![material_theme](images/material_theme.png)|
 |**_material_theme_mod_**|![material_theme](images/material_theme_mod.png)|
+|**_night_owlish_light_**|![night_owlish_light](images/night_owlish_light.png)|
 |**_nord_**<br>[source](https://github.com/arcticicestudio/nord)|![nord](images/nord.png)|
 |**_oceanic_next_**<br>[source](https://github.com/voronianski/oceanic-next-color-scheme)|![oceanic_next](images/oceanic_next.png)|
 |**_omni_**<br>[source](https://github.com/Mdsp9070/alacritty-omni)|![omni](images/omni.png)|
