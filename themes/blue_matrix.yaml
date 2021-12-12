@@ -1,0 +1,31 @@
+#Blue Matrix's default colours
+colors:
+  # Default colors
+  primary:
+    background: '0x101116'
+    foreground: '0x00a2ff'
+  cursor:
+    text: '0xF81CE5'
+    cursor: '0xffffff'
+
+  # Normal colors
+  normal:
+    black:   '0x101116'
+    red:     '0xff5680'
+    green:   '0x00ff9c'
+    yellow:  '0xfffc58'
+    blue:    '0x00b0ff'
+    magenta: '0xd57bff'
+    cyan:    '0x76c1ff'
+    white:   '0xc7c7c7'
+
+  # Bright colors
+  bright:
+    black:   '0x686868'
+    red:     '0xff6e67'
+    green:   '0x5ffa68'
+    yellow:  '0xfffc67'
+    blue:    '0x6871ff'
+    magenta: '0xd682ec'
+    cyan:    '0x60fdff'
+    white:   '0xffffff'
