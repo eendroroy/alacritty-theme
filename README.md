@@ -54,6 +54,7 @@ Or use [alacritty-colorscheme](https://github.com/toggle-corp/alacritty-colorsch
 |                                                                 **_low_contrast_**                                                                 |![iterm](images/low_contrast.png)|
 |                                  **_material_theme_**<br>[source](https://github.com/equinusocio/material-theme)                                   |![material_theme](images/material_theme.png)|
 |                                                              **_material_theme_mod_**                                                              |![material_theme_mod](images/material_theme_mod.png)|
+|                              **_monokai_pro_**<br>[source](https://gist.github.com/AlphaTechnolog/d1d5f6557f77f71519cb5713268da7dd)                |![monokai_pro](images/monokai_pro.png)|
 |                              **_moonlight_ii_vscode_**<br>[source](https://github.com/atomiks/moonlight-vscode-theme)                              |![moonlight_ii_vscode](images/moonlight_ii_vscode.png)|
 |                                                              **_night_owlish_light_**                                                              |![night_owlish_light](images/night_owlish_light.png)|
 |                                          **_nord_**<br>[source](https://github.com/arcticicestudio/nord)                                           |![nord](images/nord.png)|
