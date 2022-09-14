@@ -948,10 +948,10 @@ schemes:
   papercolor_light: &papercolor_light
     primary:
       background: '0xeeeeee'
-      foreground: '0x878787'
+      foreground: '0x444444'
     cursor:
-      text: '0xeeeeee'
-      cursor: '0x878787'
+      text:   '0xeeeeee'
+      cursor: '0x444444'
     normal:
       black:   '0xeeeeee'
       red:     '0xaf0000'
