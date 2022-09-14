@@ -28,7 +28,7 @@ There are multiple ways -
    And add the below line into `alacritty.yaml`:
      ```yaml
      import:
-       - ~/.alacritty-colorscheme/themes/{shceme_name}.yaml
+       - ~/.alacritty-colorscheme/themes/{scheme_name}.yaml
      ```
 2. Copy the content of `yaml` file in the `colors` section into `~/.config/alacritty/alacritty.yml` file.
 3. Use [alacritty-colorscheme](https://github.com/toggle-corp/alacritty-colorscheme). Read details here: [Docs](https://github.com/toggle-corp/alacritty-colorscheme/blob/master/README.md)
