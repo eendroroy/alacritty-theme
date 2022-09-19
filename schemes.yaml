@@ -945,6 +945,29 @@ schemes:
       cyan:    '0xa3f7ff'
       white:   '0xffffff'
 
+  papertheme: &papertheme
+    primary:
+      background: '#F2EEDE'
+      foreground: '#000000'
+    normal:
+      black:   '#000000'
+      red:     '#CC3E28'
+      green:   '#216609'
+      yellow:  '#B58900'
+      blue:    '#1E6FCC'
+      magenta: '#5C21A5'
+      cyan:    '#158C86'
+      white:   '#AAAAAA'
+    bright:
+      black:   '#555555'
+      red:     '#CC3E28'
+      green:   '#216609'
+      yellow:  '#B58900'
+      blue:    '#1E6FCC'
+      magenta: '#5C21A5'
+      cyan:    '#158C86'
+      white:   '#AAAAAA'
+
   papercolor_light: &papercolor_light
     primary:
       background: '0xeeeeee'
