@@ -1,6 +1,8 @@
-* **Please check if the PR fulfills these requirements**
+* **The PR fulfills following requirements**
 - [ ] Placed theme file in `themes` directory
+- [ ] Placed screenshot file in `images` directory [use [print_colors](https://raw.githubusercontent.com/eendroroy/bin_scripts/master/public/print_colors) script to take screenshot]
 - [ ] Updated `schemes.yaml` file
+- [ ] Added entry in `README.md` under "Color Schemes" section in alphabetical order
 
 * **Link to the source repository**
 
