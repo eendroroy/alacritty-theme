@@ -96,6 +96,7 @@ There are multiple ways -
 |                              **_tomorrow_night_bright_**<br>[source](https://github.com/ChrisKempson/Tomorrow-Theme)                              | ![tomorrow_night_bright](images/tomorrow_night_bright.png) |
 |                                        **_wombat_**<br>[source](https://github.com/djoyner/iTerm2-wombat)                                         |                ![wombat](images/wombat.png)                |
 |                                                                    **_xterm_**                                                                    |                 ![xterm](images/xterm.png)                 |
+|                                          **_zenburm_**<br>[source](https://github.com/jnurmine/Zenburn)                                           |               ![zenburm](images/zenburm.png)               |
 
 
 ## Contributing
