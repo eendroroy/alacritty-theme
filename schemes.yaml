@@ -244,6 +244,31 @@ schemes:
       cyan:    '0xaaffe4'
       white:   '0xcbe3e7'
 
+  citylights: &citylights
+    primary:
+      background: '0x171d23'
+      foreground: '0xffffff'
+    cursor:
+      text:   '0xfafafa'
+      cursor: '0x008b94'
+    normal:
+      black:   '0x333f4a'
+      red:     '0xd95468'
+      green:   '0x8bd49c'
+      blue:    '0x539afc'
+      magenta: '0xb62d65'
+      cyan:    '0x70e1e8'
+      white:   '0xb7c5d3'
+    bright:
+      black:   '0x41505e'
+      red:     '0xd95468'
+      green:   '0x8bd49c'
+      yellow:  '0xebbf83'
+      blue:    '0x5ec4ff'
+      magenta: '0xe27e8d'
+      cyan:    '0x70e1e8'
+      white:   '0xffffff'
+
   Cobalt2: &Cobalt2
     primary:
       background: '0x122637'
@@ -1497,5 +1522,29 @@ schemes:
       magenta:  "0xc4a7e7"
       cyan:     "0xebbcba"
       white:    "0xe0def4"
+
+  zenburn: &zenburn
+    primary:
+      background: '0x3A3A3A'
+      foreground: '0xDCDCCC'
+    normal:
+      black:   '0x1E2320'
+      red:     '0xD78787'
+      green:   '0x60B48A'
+      yellow:  '0xDFAF8F'
+      blue:    '0x506070'
+      magenta: '0xDC8CC3'
+      cyan:    '0x8CD0D3'
+      white:   '0xDCDCCC'
+    bright:
+      black:   '0x709080'
+      red:     '0xDCA3A3'
+      green:   '0xC3BF9F'
+      yellow:  '0xF0DFAF'
+      blue:    '0x94BFF3'
+      magenta: '0xEC93D3'
+      cyan:    '0x93E0E3'
+      white:   '0xFFFFFF'
+
 
 colors: *challenger_deep
