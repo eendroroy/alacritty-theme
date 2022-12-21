@@ -1500,6 +1500,29 @@ schemes:
       cyan:    '0x00ffff'
       white:   '0xffffff'
 
+  rose-pine: &rose-pine
+    primary:
+      background: "0x191724"
+      foreground: "0xe0def4"
+    normal:
+      black:    "0x26233a"
+      red:      "0xeb6f92"
+      green:    "0x31748f"
+      yellow:   "0xf6c177"
+      blue:     "0x9ccfd8"
+      magenta:  "0xc4a7e7"
+      cyan:     "0xebbcba"
+      white:    "0xe0def4"
+    bright:
+      black:    "0x6e6a86"
+      red:      "0xeb6f92"
+      green:    "0x31748f"
+      yellow:   "0xf6c177"
+      blue:     "0x9ccfd8"
+      magenta:  "0xc4a7e7"
+      cyan:     "0xebbcba"
+      white:    "0xe0def4"
+
   zenburn: &zenburn
     primary:
       background: '0x3A3A3A'
@@ -1522,5 +1545,6 @@ schemes:
       magenta: '0xEC93D3'
       cyan:    '0x93E0E3'
       white:   '0xFFFFFF'
+
 
 colors: *challenger_deep
