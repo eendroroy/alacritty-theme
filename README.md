@@ -56,6 +56,7 @@ There are multiple ways -
 |                                           **_falcon_**<br>[source](https://github.com/fenetikm/falcon)                                            |                ![falcon](images/falcon.png)                |
 |                          **_flat_remix_**<br>[source](https://github.com/Mayccoll/Gogh/blob/master/themes/flat-remix.sh)                          |            ![flat_remix](images/flat_remix.png)            |
 |                                                                   **_gotham_**                                                                    |                ![falcon](images/gotham.png)                |
+|                                  **_gnome_terminal_**<br>[source](https://gitlab.gnome.org/GNOME/gnome-terminal)                                  |        ![gnome_terminal](images/gnome_terminal.png)        |
 |                                        **_gruvbox_dark_**<br>[source](https://github.com/morhetz/gruvbox)                                         |          ![gruvbox_dark](images/gruvbox_dark.png)          |
 |                                        **_gruvbox_light_**<br>[source](https://github.com/morhetz/gruvbox)                                        |         ![gruvbox_light](images/gruvbox_light.png)         |
 |                                  **_gruvbox_material_**<br>[source](https://github.com/sainnhe/gruvbox-material)                                  |      ![gruvbox_material](images/gruvbox_material.png)      |
