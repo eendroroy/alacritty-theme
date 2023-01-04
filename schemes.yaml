@@ -788,6 +788,29 @@ schemes:
       cyan:    '0x8FBCBB'
       white:   '0xECEFF4'
 
+  monokai_charcoal: &monokai_charcoal
+    primary:
+      background: '#000000'
+      foreground: '#FFFFFF'
+    normal:
+      black:   '#1a1a1a'
+      red:     '#f4005f'
+      green:   '#98e024'
+      yellow:  '#fa8419'
+      blue:    '#9d65ff'
+      magenta: '#f4005f'
+      cyan:    '#58d1eb'
+      white:   '#c4c5b5'
+    bright:
+      black:   '#625e4c'
+      red:     '#f4005f'
+      green:   '#98e024'
+      yellow:  '#e0d561'
+      blue:    '#9d65ff'
+      magenta: '#f4005f'
+      cyan:    '#58d1eb'
+      white:   '#f6f6ef'
+
   monokai_pro: &monokai_pro
     primary:
       background: '0x2D2A2E'
