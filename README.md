@@ -113,6 +113,14 @@ adhere to the [Contributor Covenant](http://contributor-covenant.org) code of co
   3. Commit your changes (`git commit -am 'Add some feature'`)
   4. Push to the branch (`git push origin my-new-feature`)
   5. Create a new Pull Request
+  
+  Suggestions:
+  
+  - Ensure `{theme}.yaml` file in `theme` directory
+  - Ensure theme preview (ie: `{theme}.png`) in `images` directory
+  - Use [print_colors](https://raw.githubusercontent.com/eendroroy/bin_scripts/master/public/print_colors) script to generate preview
+  - Ensure `schemes.yaml` file is updated
+  - Ensure theme listing in `README.md` following alphabetical ordering
 
 ## Author
 
