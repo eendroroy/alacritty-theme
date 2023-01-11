@@ -98,6 +98,7 @@ There are multiple ways -
 |                          **_tokyo-night-storm_**<br>[source](https://github.com/zatchheems/tokyo-night-alacritty-theme)                           |     ![tokyo-night-storm](images/tokyo-night-storm.png)     |
 |                                 **_tomorrow_night_**<br>[source](https://github.com/ChrisKempson/Tomorrow-Theme)                                  |        ![tomorrow_night](images/tomorrow_night.png)        |
 |                              **_tomorrow_night_bright_**<br>[source](https://github.com/ChrisKempson/Tomorrow-Theme)                              | ![tomorrow_night_bright](images/tomorrow_night_bright.png) |
+|                                                                 **_ubuntu_**                                                                      |                ![ubuntu](images/ubuntu.png)                |
 |                                        **_wombat_**<br>[source](https://github.com/djoyner/iTerm2-wombat)                                         |                ![wombat](images/wombat.png)                |
 |                                                                    **_xterm_**                                                                    |                 ![xterm](images/xterm.png)                 |
 |                                          **_zenburm_**<br>[source](https://github.com/jnurmine/Zenburn)                                           |               ![zenburm](images/zenburm.png)               |
