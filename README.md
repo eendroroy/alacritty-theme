@@ -1,4 +1,7 @@
 # This repository is no longer maintained. Please visit the updated repository [here](https://github.com/alacritty/alacritty-theme)
+# https://github.com/alacritty/alacritty-theme
+
+&nbsp;
 
 # Alacritty Theme
 
