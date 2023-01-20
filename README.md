@@ -1,3 +1,5 @@
+# This repository is no longer maintained. Please visit the updated repository [here](https://github.com/alacritty/alacritty-theme)
+
 # Alacritty Theme
 
 [![license](https://img.shields.io/github/license/eendroroy/alacritty-theme.svg)](https://github.com/eendroroy/alacritty-theme/blob/master/LICENSE)
